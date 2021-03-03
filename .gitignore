@@ -1,0 +1,10 @@
+# Gradle
+/build
+.gradle/
+
+# OS filesystem bits
+
+.DS_Store
+Thumbs.db
+
+
