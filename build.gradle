@@ -1,7 +1,7 @@
 plugins {
     id "application"
-    id "net.kyori.indra" version "2.1.1"
-    id "net.kyori.indra.license-header" version "2.1.1"
+    id "net.kyori.indra" version "2.2.0"
+    id "net.kyori.indra.license-header" version "2.2.0"
     id "org.mikeneck.graalvm-native-image" version "1.4.1"
 }
 
