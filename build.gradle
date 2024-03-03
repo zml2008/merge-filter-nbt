@@ -30,7 +30,7 @@ application {
 }
 
 dependencies {
-    implementation "net.kyori:adventure-nbt:4.15.0"
+    implementation "net.kyori:adventure-nbt:4.16.0"
 }
 
 tasks.named("nativeImage").configure {
